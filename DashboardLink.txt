@@ -1,0 +1,4 @@
+The following link is the Covid19 Dashboard created using tableau based on the SQL queries in the repository.
+
+------------------------------------------------------------------------------------------------------------------
+https://public.tableau.com/app/profile/hamzadagh/viz/Covid19PortfolioProject_16776456091130/Dashboard1?publish=yes
