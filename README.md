@@ -1,1 +1,1 @@
-This Repository contains a collection of projects to showcase valuebale skills in the ITEC industry.
+This repository includes all files uses to analyse a Covid19 DATASET using SQL queries and visualize it using tableau
